@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9c78fafa37f1d47e3994172a6c08a11d
+guid: 0c903c6c2c7234341ad7a39739b16c91
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,13 +97,34 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: submarine_sprites_0
+      name: submarine_sprites2_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 155
+        x: 17
+        y: 154
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7226025965e814d6798ce1c80aec10ea
+      internalID: -172905370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: submarine_sprites2_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 154
         width: 56
-        height: 75
+        height: 76
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -111,20 +132,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5313f478b183748129edeb6c09e88194
-      internalID: 700085344
+      spriteID: 73d7103ef85ad4c4e9149d72eda7c19e
+      internalID: 1646751164
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: submarine_sprites_1
+      name: submarine_sprites2_2
       rect:
         serializedVersion: 2
-        x: 77
-        y: 155
+        x: 170
+        y: 154
         width: 57
-        height: 75
+        height: 76
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,20 +153,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8c06898cd56dd466f861c8db2581a040
-      internalID: 1591609524
+      spriteID: 96746114ff3ee4e7498485e44ca58932
+      internalID: -427309062
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: submarine_sprites_2
+      name: submarine_sprites2_3
       rect:
         serializedVersion: 2
-        x: 162
-        y: 155
-        width: 57
-        height: 75
+        x: 253
+        y: 154
+        width: 56
+        height: 76
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,20 +174,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e015c143b62094914ac989b925592bd8
-      internalID: 1766239147
+      spriteID: c58576df7195f425b959a445cfe66e7f
+      internalID: -1722489112
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: submarine_sprites_3
+      name: submarine_sprites2_4
       rect:
         serializedVersion: 2
-        x: 245
-        y: 155
-        width: 55
-        height: 75
+        x: 338
+        y: 154
+        width: 56
+        height: 76
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -174,20 +195,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9c41fc18b1f0b47c0be736b74edc0b38
-      internalID: 239299786
+      spriteID: 714b8052b555c4d2495ab51f71ebe8a8
+      internalID: -1037597885
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: submarine_sprites_4
+      name: submarine_sprites2_5
       rect:
         serializedVersion: 2
-        x: 325
-        y: 155
-        width: 58
-        height: 75
+        x: 416
+        y: 154
+        width: 56
+        height: 76
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,41 +216,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 652114f2105324e6c8b73598c46df926
-      internalID: 1908722079
+      spriteID: 6c823c1aaa56c495487461e813c876ce
+      internalID: -878582367
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: submarine_sprites_5
-      rect:
-        serializedVersion: 2
-        x: 397
-        y: 155
-        width: 57
-        height: 75
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0a76e93b4036e4e118105c222245b24b
-      internalID: 1260242419
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: submarine_sprites_6
+      name: submarine_sprites2_6
       rect:
         serializedVersion: 2
         x: 0
-        y: 80
-        width: 77
-        height: 75
+        y: 78
+        width: 78
+        height: 76
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,20 +237,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8508c9daa56244d9e8d1dab8fb2204ad
-      internalID: 1612536091
+      spriteID: ebf14f794a1d341d08609f1a622a23e7
+      internalID: 184055284
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: submarine_sprites_7
+      name: submarine_sprites2_7
       rect:
         serializedVersion: 2
-        x: 77
-        y: 80
-        width: 77
-        height: 75
+        x: 78
+        y: 78
+        width: 78
+        height: 76
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -258,20 +258,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbea2fc0bd69c4daf84e1b8dea480a32
-      internalID: 228950202
+      spriteID: 91c15517b139b40f399cbfe92405d3fb
+      internalID: 1514067475
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: submarine_sprites_8
+      name: submarine_sprites2_8
       rect:
         serializedVersion: 2
-        x: 154
-        y: 80
-        width: 77
-        height: 75
+        x: 156
+        y: 78
+        width: 78
+        height: 76
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,20 +279,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4cb00c12831854a938a52e3d0d5a9e01
-      internalID: -1904726269
+      spriteID: 122b7f9c13da04a9c9a6dd86820b9c61
+      internalID: 326590744
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: submarine_sprites_9
+      name: submarine_sprites2_9
       rect:
         serializedVersion: 2
-        x: 231
-        y: 80
-        width: 77
-        height: 75
+        x: 234
+        y: 78
+        width: 78
+        height: 76
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -300,20 +300,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5379c752dd0f74de2bda9da69d21aee9
-      internalID: 822633775
+      spriteID: 5ca254ff4268942398d45970f71783c5
+      internalID: -878843081
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: submarine_sprites_10
+      name: submarine_sprites2_10
       rect:
         serializedVersion: 2
-        x: 308
-        y: 80
-        width: 77
-        height: 75
+        x: 312
+        y: 78
+        width: 78
+        height: 76
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -321,20 +321,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b2794c190fab41cc9745be5462f7b6e
-      internalID: -410777111
+      spriteID: b15e046ee72d64e04bba2bf842448e3e
+      internalID: -1733083935
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: submarine_sprites_11
+      name: submarine_sprites2_11
       rect:
         serializedVersion: 2
-        x: 385
-        y: 80
-        width: 77
-        height: 75
+        x: 390
+        y: 78
+        width: 78
+        height: 76
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,20 +342,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cacc09e33f08c4e8cb4327027e2474d7
-      internalID: -1330868396
+      spriteID: 4c2b96af3c1b5403f8958b0d2a7bc289
+      internalID: -771820458
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: submarine_sprites_12
+      name: submarine_sprites2_12
       rect:
         serializedVersion: 2
-        x: 0
-        y: 5
-        width: 77
-        height: 75
+        x: 390
+        y: 2
+        width: 78
+        height: 76
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -363,8 +363,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 58fa812203c3b450abca02f8f5334d1e
-      internalID: 1925678596
+      spriteID: 0489ce97d09a846e7968284502d471ad
+      internalID: 442313158
       vertices: []
       indices: 
       edges: []
@@ -380,19 +380,19 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      submarine_sprites_0: 700085344
-      submarine_sprites_1: 1591609524
-      submarine_sprites_10: -410777111
-      submarine_sprites_11: -1330868396
-      submarine_sprites_12: 1925678596
-      submarine_sprites_2: 1766239147
-      submarine_sprites_3: 239299786
-      submarine_sprites_4: 1908722079
-      submarine_sprites_5: 1260242419
-      submarine_sprites_6: 1612536091
-      submarine_sprites_7: 228950202
-      submarine_sprites_8: -1904726269
-      submarine_sprites_9: 822633775
+      submarine_sprites2_0: -172905370
+      submarine_sprites2_1: 1646751164
+      submarine_sprites2_10: -1733083935
+      submarine_sprites2_11: -771820458
+      submarine_sprites2_12: 442313158
+      submarine_sprites2_2: -427309062
+      submarine_sprites2_3: -1722489112
+      submarine_sprites2_4: -1037597885
+      submarine_sprites2_5: -878582367
+      submarine_sprites2_6: 184055284
+      submarine_sprites2_7: 1514067475
+      submarine_sprites2_8: 326590744
+      submarine_sprites2_9: -878843081
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
