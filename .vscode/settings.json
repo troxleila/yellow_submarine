@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "TEAMVG.sln"
+    "dotnet.defaultSolution": "yellow_submarine.sln"
 }
